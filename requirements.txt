@@ -1,0 +1,6 @@
+tensorflow-gpu=1.4.0
+matplotlib>2.0.0
+numpy>=1.0.0
+protobuf>=3.0.0
+h5py
+tensorlayer
