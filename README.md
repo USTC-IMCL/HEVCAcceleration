@@ -1,5 +1,7 @@
 # HEVCAcceleration
 
+Offical implementation of [Zhibo Chen*, Jun Shi, Weiping Li, “Learned Fast HEVC Intra Coding”, Vol.29, Issue.1, pp.5431-5446, IEEE Trans. on Image Processing, 2020.](https://arxiv.org/abs/2112.13309v2)
+
 1. 网络模型使用方法：
 	CNN模型基于深度学习框架TensorFlow，建议在ubuntu下运行，TensorFlow版本大于1.0均可，所需资源库在requirements.txt文件中给出，执行以下命令即可：
 pip install -r requirements.txt
