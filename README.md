@@ -17,4 +17,4 @@ coding
 
 3. EHIC数据集细节：
 	数据集主要基于RAISE、DIV2K及UCID三个公开数据集，包含了各个分辨率下的自然场景图像。Data文件夹下已经按照HEVC中CTU划分方式提供了64x64大小的灰度块的mat文件，而Label文件夹下提供了快速划分及快速模式选择两项任务的标签，划分任务的标签值为0或1，代表了划分或不划分，而模式选择任务上的标签对应MNRC值，深度0～2时取值为1～3，而深度3～4时取值为1～8。
-![image](https://github.com/USTC-IMCL/HEVCAcceleration/assets/113843291/d7a43c74-e695-4f0b-8f4e-b9366c342eb1)
+
